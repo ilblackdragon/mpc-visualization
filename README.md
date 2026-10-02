@@ -81,3 +81,7 @@ src/lib/*            pure logic, unit tested (ledger, contract, cohort, geo, for
 scripts/locate-nodes.mjs
 data/node-locations.json
 ```
+
+## License
+
+[MIT](LICENSE)
